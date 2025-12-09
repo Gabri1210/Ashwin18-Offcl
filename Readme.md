@@ -85,7 +85,60 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 📱 Connect With Me
+
+
+<p align="left">
+
+  <a href="https://github.com/Ashwin18-Offcl" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />
+  </a>
+
+<a href="https://www.linkedin.com/in/ashwin-panbude-27b824253" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" height="48" />
+</a>
+
+  <a href="https://linktr.ee/AshwinPanbude" target="_blank">
+    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="34" alt="Linktree" />
+  </a>
+
+  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" alt="Kaggle" />
+  </a>
+
+  <a href="https://leetcode.com/u/ashwin18-offcl/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="34" alt="LeetCode" />
+  </a>
+
+  <a href="https://medium.com/@ashwinpanbude1220" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="34" alt="Medium" />
+  </a>
+
+  <a href="https://www.instagram.com/ashwinpanbude18_/?__pwa=1" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="34" alt="Instagram" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100086224796966" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="34" alt="Facebook" />
+  </a>
+
+  <a href="https://x.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="34" alt="X" />
+  </a>
+
+  <a href="https://unstop.com/u/ashwipan96305" target="_blank">
+    <img src="https://cdn.simpleicons.org/unstop/4B5D67" height="34" alt="Unstop" />
+  </a>
+
+  <a href="https://replit.com/refer/ashwinpanbude12" target="_blank">
+    <img src="https://cdn.simpleicons.org/replit/F26207" height="34" alt="Replit" />
+  </a>
+
+  <a href="https://credly.com/users/ashwin-panbude.3be31487/edit" target="_blank">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" height="34" alt="Credly" />
+  </a>
+
+</p>
 
 
 
