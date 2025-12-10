@@ -317,54 +317,79 @@
 
 ## 📑 Certifications – Category Index
 
+## 📂 Certifications – Index (Short Link Style with Actual Repo Links)
+
 <div align="left">
 
 <table>
   <tr>
     <th align="left"><sub>Category</sub></th>
-    <th align="left"><sub>Category</sub></th>
+    <th align="left"><sub>Short Link Style</sub></th>
   </tr>
 
-  <!-- ROW 1 -->
   <tr>
-    <td><sub><a href="./CCC/">CCC Certificates</a></sub></td>
-    <td><sub><a href="./CCEP%20Cyber%20security%20Certificate/">CCEP Cyber Security Certificates</a></sub></td>
+    <td><sub>CCC Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/CCC">bit.ly/ccc-cert</a></sub></td>
   </tr>
 
-  <!-- ROW 2 -->
   <tr>
-    <td><sub><a href="./Certificate%20Merger/">Certificate Merger</a></sub></td>
-    <td><sub><a href="./Coursera/">Coursera Certifications</a></sub></td>
+    <td><sub>CCEP Cyber Security Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/CCEP%20Cyber%20security%20Certificate">bit.ly/ccep-cyber</a></sub></td>
   </tr>
 
-  <!-- ROW 3 -->
   <tr>
-    <td><sub><a href="./Disha%20Computer%20Institute/">Disha Computer Institute</a></sub></td>
-    <td><sub><a href="./Government%20Certificates/">Government Certificates</a></sub></td>
+    <td><sub>Certificate Merger</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Certificate%20Merger">bit.ly/cert-merge</a></sub></td>
   </tr>
 
-  <!-- ROW 4 -->
   <tr>
-    <td><sub><a href="./GreatlearningCertificate/">Great Learning Certificates</a></sub></td>
-    <td><sub><a href="./HCL%20Certificates/">HCL Certificates</a></sub></td>
+    <td><sub>Coursera Certifications</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Coursera">bit.ly/coursera-cert</a></sub></td>
   </tr>
 
-  <!-- ROW 5 -->
   <tr>
-    <td><sub><a href="./Internship%20Certificate/">Internship Certificates</a></sub></td>
-    <td><sub><a href="./Other%20Certifications/">Other Certifications</a></sub></td>
+    <td><sub>Disha Computer Institute Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Disha%20Computer%20Institute">bit.ly/disha-cert</a></sub></td>
   </tr>
 
-  <!-- ROW 6 -->
   <tr>
-    <td><sub><a href="./Reliance/">Reliance / Jio Certificates</a></sub></td>
-    <td><sub><a href="./Skill%20India%20Certificate/">Skill India Certificates</a></sub></td>
+    <td><sub>Government Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Government%20Certificates">bit.ly/gov-cert</a></sub></td>
   </tr>
 
-  <!-- ROW 7 -->
   <tr>
-    <td><sub><a href="./Tata%20Forage%20Certificates/">Tata Forage Certificates</a></sub></td>
-    <td><sub><a href="./Udemy/">Udemy Certificates</a></sub></td>
+    <td><sub>Great Learning Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/GreatlearningCertificate">bit.ly/gl-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>HCL Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/HCL%20Certificates">bit.ly/hcl-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Internship Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Internship%20Certificate">bit.ly/intern-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Other Certifications</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Other%20Certifications">bit.ly/other-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Reliance Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Reliance">bit.ly/rel-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Skill India Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Skill%20India%20Certificate">bit.ly/skill-cert</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub>Tata Forage Certificates</sub></td>
+    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Tata%20Forage%20Certificates">bit.ly/tata-cert</a></sub></td>
   </tr>
 
 </table>
