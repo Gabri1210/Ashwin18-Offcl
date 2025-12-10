@@ -1,3 +1,5 @@
+
+
 <!-- PROFILE BANNERS -->
 <img src="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" />
 
@@ -210,22 +212,23 @@
 </p>
 
 ---
-## 🚀 GitHub Analytics Dashboard
+## GitHub Analytics
+<!-- Section Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Analytics Dashboard-000000?style=for-the-badge&logo=github&logoColor=00eaff">
+</p>
+
 <div align="center">
 
-  <!-- Row 1 -->
+  <!-- Row 1: GitHub Stats + Metrics -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashwin18-Offcl&theme=github_dark"
     width="49%"
     alt="GitHub Stats"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ashwin18-Offcl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percent"
-    width="49%"
-    alt="GitHub Metrics"
-  />
 
-  <!-- Row 2 -->
+
+  <!-- Row 2: Languages + Repositories -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashwin18-Offcl&theme=github_dark"
     width="49%"
@@ -234,10 +237,10 @@
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashwin18-Offcl&theme=github_dark"
     width="49%"
-    alt="Repo Languages"
+    alt="Repository Languages"
   />
 
-  <!-- Row 3 -->
+  <!-- Row 3: Productivity + Profile Summary -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashwin18-Offcl&theme=github_dark&utcOffset=5.5"
     width="49%"
@@ -249,33 +252,36 @@
     alt="Profile Details"
   />
 
-  <!-- Full Width Activity Graph -->
+</div>
+
+<!-- Section Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥 Streak Stats-000000?style=for-the-badge&logo=firefox&logoColor=FF2D75">
+</p>
+
+<!-- Row 4: Streak Activity -->
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=tokyo-night&hide_border=true&area=true"
+    src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=tokyonight&hide_border=true&border_radius=8"
+    width="95%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Section Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📈 Contribution Graph-000000?style=for-the-badge&logo=graphite&logoColor=39FF14">
+</p>
+
+<!-- Row 5: Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=react-dark&hide_border=true&area=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
-
-</div>
-
-
----
-##  ✨Soft Skills & Teaching
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge" alt="Problem Solving" />
-
-  <img src="https://img.shields.io/badge/Communication-1DB9C3?style=for-the-badge" alt="Communication" />
-
-  <img src="https://img.shields.io/badge/Teaching-9C27B0?style=for-the-badge" alt="Teaching" />
-
-  <img src="https://img.shields.io/badge/Adaptive_Learner-6EC6FF?style=for-the-badge" alt="Adaptive Learner" />
-
-  <img src="https://img.shields.io/badge/Storytelling-FC5185?style=for-the-badge" alt="Storytelling" />
-
-  <img src="https://img.shields.io/badge/Creativity-FFD300?style=for-the-badge" alt="Creativity" />
-
 </p>
+
 
 ---
 
