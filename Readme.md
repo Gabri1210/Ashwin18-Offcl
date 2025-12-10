@@ -210,15 +210,54 @@
 </p>
 
 ---
-## GitHub Analytics
+## 🚀 GitHub Analytics Dashboard
+<div align="center">
 
+  <!-- Row 1 -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashwin18-Offcl&theme=github_dark"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ashwin18-Offcl&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percent"
+    width="49%"
+    alt="GitHub Metrics"
+  />
 
----
+  <!-- Row 2 -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashwin18-Offcl&theme=github_dark"
+    width="49%"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashwin18-Offcl&theme=github_dark"
+    width="49%"
+    alt="Repo Languages"
+  />
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+  <!-- Row 3 -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashwin18-Offcl&theme=github_dark&utcOffset=5.5"
+    width="49%"
+    alt="Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin18-Offcl&theme=github_dark"
+    width="49%"
+    alt="Profile Details"
+  />
+
+  <!-- Full Width Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
+
 
 ---
 ##  ✨Soft Skills & Teaching
