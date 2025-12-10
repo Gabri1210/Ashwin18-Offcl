@@ -1,3 +1,69 @@
+# 📂 Certifications
+
+A consolidated index of all certification categories and documents maintained here.
+
+---
+
+## 📑 Certifications – Category Index
+
+<div align="left">
+
+<table>
+  <tr>
+    <th align="left"><sub>Category</sub></th>
+    <th align="left"><sub>Category</sub></th>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./CCC/">CCC</a></sub></td>
+    <td><sub><a href="./CCEP%20Cyber%20security%20Certificate/">CCEP Cyber Security Certificate</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./Certificate%20Merger/">Certificate Merger</a></sub></td>
+    <td><sub><a href="./Coursera/">Coursera Certifications</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./Disha%20Computer%20Institute/">Disha Computer Institute Certificates</a></sub></td>
+    <td><sub><a href="./Government%20Certificates/">Government Certificates</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./GreatlearningCertificate/">Great Learning Certificates</a></sub></td>
+    <td><sub><a href="./HCL%20Certificates/">HCL Certificates</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./Internship%20Certificate/">Internship Certificates</a></sub></td>
+    <td><sub><a href="./Other%20Certifications/">Other Certifications</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./Reliance/">Reliance Certificates</a></sub></td>
+    <td><sub><a href="./Skill%20India%20Certificate/">Skill India Certificates</a></sub></td>
+  </tr>
+
+  <tr>
+    <td><sub><a href="./Tata%20Forage%20Certificates/">Tata Forage Certificates</a></sub></td>
+    <td><sub><a href="./Udemy/">Udemy Certifications</a></sub></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### ℹ️ Notes
+
+- The links assume each category is a folder inside `Certifications/`, and that each folder has its own contents.  
+- The paths use **relative links**, so they remain valid even if the repository is cloned elsewhere. :contentReference[oaicite:1]{index=1}  
+- If you open this README on GitHub, clicking any category name will navigate directly to that folder’s listing.  
+
+Feel free to add a short description under each category (inside the table cell or below the table) to describe what kind of certifications that category includes.  
+
+---
+
 
 
 <!-- PROFILE BANNERS -->
