@@ -273,11 +273,13 @@
 <!-- Row 4: Streak Activity -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=tokyonight&hide_border=true&border_radius=8"
+    src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=nightowl&hide_border=true&border_radius=8"
     width="95%"
-    alt="GitHub Streak"
+    alt="GitHub Streak NightOwl"
   />
 </p>
+
+
 
 <!-- Section Divider -->
 <p align="center">
