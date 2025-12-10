@@ -231,15 +231,19 @@
 
 <div align="center">
 
-  <!-- Row 1: GitHub Stats + Metrics -->
+  <!-- Row 1: Overall Performance -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashwin18-Offcl&theme=github_dark"
     width="49%"
     alt="GitHub Stats"
   />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin18-Offcl&theme=github_dark"
+    width="49%"
+    alt="Profile Details"
+  />
 
-
-  <!-- Row 2: Languages + Repositories -->
+  <!-- Row 2: Languages + Repo Distribution -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashwin18-Offcl&theme=github_dark"
     width="49%"
@@ -251,16 +255,11 @@
     alt="Repository Languages"
   />
 
-  <!-- Row 3: Productivity + Profile Summary -->
+  <!-- Row 3: Productivity -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashwin18-Offcl&theme=github_dark&utcOffset=5.5"
     width="49%"
     alt="Productive Time"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin18-Offcl&theme=github_dark"
-    width="49%"
-    alt="Profile Details"
   />
 
 </div>
@@ -270,7 +269,7 @@
   <img src="https://img.shields.io/badge/🔥 Streak Stats-000000?style=for-the-badge&logo=firefox&logoColor=FF2D75">
 </p>
 
-<!-- Row 4: Streak Activity -->
+<!-- Streak Activity (Dark + Colorful) -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=nightowl&hide_border=true&border_radius=8"
@@ -278,7 +277,6 @@
     alt="GitHub Streak NightOwl"
   />
 </p>
-
 
 
 <!-- Section Divider -->
