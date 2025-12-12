@@ -268,13 +268,14 @@
 </p>
 
 <!-- Streak Activity (Dark + Colorful) -->
-<p align="center">
+<!-- Center-aligned image (same service). बस user बदलें: ?user=YourGitHubUser -->
+<div style="text-align:center;">
   <img
     src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=nightowl&hide_border=true&border_radius=8"
-    width="95%"
+    style="width:95%; max-width:1100px; border-radius:8px; display:inline-block;"
     alt="GitHub Streak NightOwl"
   />
-</p>
+</div>
 
 
 <!-- Section Divider -->
@@ -416,3 +417,44 @@
 <p align="center">
   <em>"Real growth begins when you stop running from yourself." — Acharya Prashant</em>
 </p>
+
+
+
+
+
+
+
+
+
+
+// components/GitHubStreakCard.jsx
+import React from "react";
+
+export default function GitHubStreakCard({
+  username = "Ashwin18-Offcl",   // ← आपका username सेट कर दिया गया
+  theme = "nightowl",
+  hideBorder = true,
+  borderRadius = 8,
+  widthPercent = 95,
+  maxWidth = 1100,
+}) {
+  const src = `https://streak-stats.demolab.com?user=${encodeURIComponent(
+    username
+  )}&theme=${encodeURIComponent(theme)}&hide_border=${hideBorder}&border_radius=${borderRadius}`;
+
+  return (
+    <div style={{ textAlign: "center", padding: 8 }}>
+      <img
+        src={src}
+        alt={`GitHub Streak for ${username}`}
+        style={{
+          width: `${widthPercent}%`,
+          maxWidth: maxWidth,
+          borderRadius: borderRadius,
+          display: "inline-block",
+        }}
+      />
+    </div>
+  );
+}
+
